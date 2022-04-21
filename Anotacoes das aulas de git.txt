@@ -1,0 +1,16 @@
+# Navegação dentro das pastas.
+
+O comando "dir" irá listar, mostrar os diretórios contidos na pasta em que estamos.
+O comando "cd" exibe a unidade e o diretório atuais.
+O comando "cd .." é utilizado para retornar um nivel nas pastas.
+O comando "mkdir" cria diretórios.
+O comando "rmdir <nome-do-diretório>" deleta diretórios. 
+O comando "ls" irá listar as pastas do diretório que você se encontra atualmente.
+
+
+# Criação e modificações do repositório na minha máquina.
+
+O comando "git init" cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
+O comando "git status" é utilizado para verificar o estado dos arquivos e diretórios.
+O comando "git add" permite que você inclua atualizações no próximo commit.
+
