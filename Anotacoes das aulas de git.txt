@@ -8,9 +8,11 @@ O comando "rmdir <nome-do-diretório>" deleta diretórios.
 O comando "ls" irá listar as pastas do diretório que você se encontra atualmente.
 
 
-# Criação e modificações do repositório na minha máquina.
+# Criação/Modficação de repositórios locais e remotos.
 
 O comando "git init" cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 O comando "git status" é utilizado para verificar o estado dos arquivos e diretórios.
 O comando "git add" permite que você inclua atualizações no próximo commit.
+O comando "git commit -m" é usado para comentar um commit.
+O comando "git push origin" coloca um endereço do seu repositório no GitHub
 
